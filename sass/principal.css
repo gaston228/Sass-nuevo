@@ -1,0 +1,45 @@
+.header {
+  color: aquamarine;
+}
+
+.header_titulo {
+  background-color: blue;
+  margin: 10px 50px;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 700;
+}
+
+h2:hover {
+  color: chartreuse;
+}
+
+.articulos {
+  text-align: center;
+}
+
+.articulos-titulo {
+  border-radius: 0.5;
+  color: darkblue;
+}
+
+.ofertas {
+  text-align: center;
+  color: darkred;
+}
+
+.ofertas .ofertas-img {
+  text-align: center;
+}
+
+.ofertas .ofertas-img .img {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=principal.css.map */
